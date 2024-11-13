@@ -36,6 +36,7 @@ int main()
 
     printf("Sahi! The number was %d\n", random);
     printf("You guessed the number in %d guesses\n", guesses);
+    // printf("This is a ");
 
     return 0;
 }
